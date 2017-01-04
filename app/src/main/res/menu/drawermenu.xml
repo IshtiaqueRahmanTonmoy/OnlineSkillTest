@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Buet"
+        android:id="@+id/nav_item_buet"
+        android:icon="@drawable/sent"/>
+
+    <item android:title="Dhaka University"
+        android:id="@+id/nav_item_du"
+        android:icon="@drawable/inbox"/>
+
+    <item android:title="Mba"
+        android:id="@+id/nav_item_mba"
+        android:icon="@drawable/draft"/>
+
+
+    <item android:title="Medical"
+          android:id="@+id/nav_item_medical"
+          android:icon="@drawable/draft"/>
+
+    <item android:title="Professional">
+        <menu>
+            <item
+                android:title="Bank"
+                android:icon="@drawable/spam"/>
+            <item
+                android:title="Bcs"
+                android:icon="@drawable/bin"/>
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+              android:icon="@drawable/settings"/>
+        <item android:title="Help"
+             android:icon="@drawable/help"/>
+    </group>
+
+
+</menu>

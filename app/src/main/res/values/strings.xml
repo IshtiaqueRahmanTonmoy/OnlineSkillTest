@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Drawer With Swipe Tabs</string>
+    <string name="hint_first_name">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="question">Question 1. Who is the first president of Bangladesh?</string>
+    <string name="next_questions"> Next Question</string>
+    <string name="previous_questions"> Previous Question</string>
+    <string name="title_activity_quiz_taken">QuizTakenActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
